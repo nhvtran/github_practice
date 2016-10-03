@@ -4,9 +4,9 @@ A repository with which to practice using git.
 
 ### What is your name?
 
-> Nancy Tran
+> Answer goes here
 
 
 ### What is your favorite color?
 
-> Green
+> Answer goes here
